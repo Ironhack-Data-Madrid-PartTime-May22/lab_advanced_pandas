@@ -22,4 +22,10 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [Pandas `set_index` documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.set_index.html)
 
-[Pandas `assign` documentation](https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.DataFrame.assign.html)
+[Pandas `assign` documentation](https://pandas.pydata.org/pandas-do
+cs/version/0.22/generated/pandas.DataFrame.assign.html)
+
+
+
+
+
